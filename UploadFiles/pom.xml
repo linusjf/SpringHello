@@ -7,14 +7,14 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.0.6</version>
+    <version>3.0.0</version>
     <relativePath />
     <!-- lookup parent from repository -->
   </parent>
   <groupId>com.example</groupId>
-  <artifactId>uploadfiles</artifactId>
+  <artifactId>uploading-files</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>uploadfiles</name>
+  <name>uploading-files</name>
   <description>Demo project for Spring Boot</description>
   <properties>
     <java.version>20</java.version>
